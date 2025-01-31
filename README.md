@@ -1,6 +1,6 @@
 # Hi there, I'm Ashikuzzaman! 👋
 
-Welcome to my GitHub profile! I'm a passionate .NET developer and solution architect based in Dhaka, Bangladesh, with a love for learning and building robust software solutions.
+Welcome to my GitHub profile! I'm microsoft certified professional with 11+ years of experience in designing and developing collaborative solutions using various Microsoft Technologies.
 
 ## 🚀 About Me
 
@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm a passionate .NET developer and solution archi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 
 ## 📈 GitHub Stats
 
