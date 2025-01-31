@@ -1,26 +1,32 @@
 # Hi there, I'm Ashikuzzaman! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer based in Dhaka, Bangladesh, with a love for learning and building amazing projects.
+Welcome to my GitHub profile! I'm a passionate .NET developer and solution architect based in Dhaka, Bangladesh, with a love for learning and building robust software solutions.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various exciting projects.
-- 🌱 I’m currently learning new technologies and improving my skills.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Ask me about web development, software engineering, and technology.
+- 🔭 I’m currently working on designing and developing scalable .NET applications.
+- 🌱 I’m currently learning cloud technologies and microservices architecture.
+- 👯 I’m looking to collaborate on enterprise-level software projects and innovative solutions.
+- 💬 Ask me about .NET development, software architecture, and cloud computing.
 - 📫 How to reach me: [ashiquzzaman@outlook.com](mailto:ashiquzzaman@outlook.com)
 - 🌐 Visit my personal website: [ashiquzzaman.me](https://ashiquzzaman.me)
-- ⚡ Fun fact: I enjoy solving challenging problems and contributing to the developer community.
+- ⚡ Fun fact: I enjoy solving complex problems and mentoring junior developers.
 
 ## 🛠️ Technologies & Tools
 
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 📈 GitHub Stats
 
@@ -28,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate developer based in Dhaka, Banglad
 
 ## 🏆 Achievements
 
-- [Your Achievement 1]
-- [Your Achievement 2]
-- [Your Achievement 3]
+- Designed and implemented a microservices architecture for a large-scale enterprise application.
+- Led a team of developers to deliver high-quality software solutions on time.
+- Contributed to several open-source projects.
 
 ## 📫 Connect with Me
 
