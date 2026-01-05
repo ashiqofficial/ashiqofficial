@@ -1,4 +1,4 @@
-# Hi there, I'm Ashikuzzaman! 👋
+# Hi there, I'm Ashiquzzaman! 👋
 
 Welcome to my GitHub profile! I'm microsoft certified professional with 11+ years of experience in designing and developing collaborative solutions using various Microsoft Technologies.
 
