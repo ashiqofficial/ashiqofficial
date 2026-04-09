@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm microsoft certified professional with 11+ year
 - 💬 Ask me about .NET development, software architecture, and cloud computing.
 - 📫 How to reach me: [ashiquzzaman@outlook.com](mailto:ashiquzzaman@outlook.com)
 - 🌐 Visit my personal website: [ashiquzzaman.me](https://ashiquzzaman.me)
+- 🏢 **Braonstation23** — 📧 [info@braonstation23.com](mailto:info@braonstation23.com) | 🌐 [braonstation23.com](https://braonstation23.com)
+- 🎬 **MyVenuLive** — 📧 [info@myvenulive.com](mailto:info@myvenulive.com) | 🌐 [myvenulive.com](https://myvenulive.com)
+- 💼 **PTS Solutions** — 📧 [info@ptssolutions.com](mailto:info@ptssolutions.com) | 🌐 [ptssolutions.com](https://ptssolutions.com)
 - ⚡ Fun fact: I enjoy solving complex problems and mentoring junior developers.
 
 ## 🛠️ Technologies & Tools
